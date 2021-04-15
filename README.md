@@ -5,4 +5,4 @@ A flutter project integrated with Vuoforia
 # Step By Step instructions coming soon..
 <br />
 <br />
-![final](https://user-images.githubusercontent.com/63390046/114860024-21915900-9e09-11eb-9e5d-86c366959265.gif)
+![final](https://user-images.githubusercontent.com/63390046/114860154-438adb80-9e09-11eb-821f-10a4ee301ee4.gif)
